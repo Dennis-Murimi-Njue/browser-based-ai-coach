@@ -16,8 +16,8 @@ Everything runs in the browser from a single HTML file. There is no build step, 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone <https://github.com/Dennis-Murimi-Njue/browser-based-ai-coach>
+   cd <browser-based-ai-coach>
    ```
 2. Open `history-log.html` in any modern browser. You can double-click the file or run:
    ```bash
