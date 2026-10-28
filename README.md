@@ -1,8 +1,7 @@
-# Daily Goal History
+# SMP Daily AI Coach
 
-A small, dependency-free web app that predicts whether you'll hit a daily health goal from your sleep, water intake and steps, then keeps a running log of each day and your hit rate.
-
-Everything runs in the browser from a single HTML file. There is no build step, no framework and no server.
+A browser-based tool that accepts sleep, water, and step count data, predicts goal outcome with a confidence score and generates  a coaching message.
+No server needed. Everything runs client-side in Javascript.
 
 ## Features
 
